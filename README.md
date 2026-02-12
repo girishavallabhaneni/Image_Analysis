@@ -31,7 +31,7 @@ The **Gemini Pro Vision Image Analysis Project** is a Streamlit web application 
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/GudisaSandeep/Advanced-Image-Analysis
+   git clone https://github.com/girishavallabhaneni/Advanced-Image-Analysis
    cd Advanced-Image-Analysis
 
 
@@ -48,7 +48,7 @@ The **Gemini Pro Vision Image Analysis Project** is a Streamlit web application 
 1. **Clone the Repository**
 
    ```sh
-    git clone https://github.com/GudisaSandeep/Advanced-Image-Analysis
+    git clone https://github.com/girishavallabhaneni/Advanced-Image-Analysis
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -130,6 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Extended Image Formats**: Support for additional image formats.
 - **Advanced AI Features**: Integration with more advanced AI models for enhanced content generation.
 - **User Authentication**: Add user login and management features.
+
 
 
 
