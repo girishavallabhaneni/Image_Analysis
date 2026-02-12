@@ -125,15 +125,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Google AI**: For the generative model.
 - **Pillow**: For image processing.
 
-## Contact
-
-For any questions or feedback, please contact [gudisasandeep141312@gmial.com](mailto:gudisasandeep141312@gmail.com).
-
 ## Future Enhancements
 
 - **Extended Image Formats**: Support for additional image formats.
 - **Advanced AI Features**: Integration with more advanced AI models for enhanced content generation.
 - **User Authentication**: Add user login and management features.
+
 
 
 
